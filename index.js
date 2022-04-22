@@ -91,7 +91,6 @@
 		{"name":"aijx","category":"1","url":"https://jiexi.t7g.cn/?url="},
 		{"name":"夜幕","category":"1","url":"https://www.yemu.xyz/?url="},
 		{"name":"52","category":"1","url":"https://vip.52jiexi.top/?url="},
-		{"name":"黑米","category":"1","url":"https://www.myxin.top/jx/api/?url="},
 		{"name":"豪华啦","category":"1","url":"https://api.lhh.la/vip/?url="},
 		{"name":"凉城","category":"1","url":"https://jx.mw0.cc/?url="},
 		{"name":"33t","category":"1","url":"https://www.33tn.cn/?url="},
